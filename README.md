@@ -57,7 +57,8 @@ It combines a **ReAct agent** with an **iterative answer improvement loop** to g
                        │                        │
                        │ Critique → Improve     │
                        └───────────┬────────────
-
+                       │ Final Interview Answer │
+                       └────────────────────────┘
 
 🛠️ Tech Stack
 Python
@@ -175,5 +176,4 @@ The project demonstrates how multiple AI components can be combined into a compl
 
 👩‍💻 Built With ❤️ by Disha
 
-                       │ Final Interview Answer │
-                       └────────────────────────┘
+                      
